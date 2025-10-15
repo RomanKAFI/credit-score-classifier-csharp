@@ -1,0 +1,12 @@
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/bin/Release/net8.0/CreditScoreClassifier.deps.json
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/bin/Release/net8.0/CreditScoreClassifier.dll
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/bin/Release/net8.0/CreditScoreClassifier.pdb
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/CreditScoreClassifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/CreditScoreClassifier.AssemblyInfoInputs.cache
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/CreditScoreClassifier.AssemblyInfo.cs
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/CreditScoreClassifier.csproj.CoreCompileInputs.cache
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/CreditScoreClassifier.sourcelink.json
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/CreditScoreClassifier.dll
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/refint/CreditScoreClassifier.dll
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/CreditScoreClassifier.pdb
+/Users/kafi/Desktop/CSD268_QA/week_2/credit-score-classifier-csharp/src/CreditScoreClassifier/obj/Release/net8.0/ref/CreditScoreClassifier.dll
